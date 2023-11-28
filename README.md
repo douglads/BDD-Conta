@@ -63,9 +63,13 @@ java.lang.ExceptionInInitializerError
 
   
 
-Print de Execução
+## Print de Execução
 
+  ![Primeiro passo](./imgs/0.png)
+
+  ![Segundo passo](./imgs/1.png)
   
+  ![Terceiro passo](./imgs/2.png)
 
 ## Documentação
 
